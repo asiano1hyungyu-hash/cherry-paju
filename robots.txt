@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cherrypaju.yongincherry.workers.dev/sitemap.xml
+RSS: https://cherrypaju.yongincherry.workers.dev/rss.xml
+Host: cherrypaju.yongincherry.workers.dev
+
